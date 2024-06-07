@@ -6592,14 +6592,134 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007021.md",
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009003.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5152d2fb09f1901a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009004.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c861fd3a37363cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e06992e27a0dd62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "969ebceb78388484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009006.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dcea4e8c7032319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009006.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e19e552032fdf5cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009007.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d11a04e0d7337ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dce43fc28db3cd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c387497c2132ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cccf4065a3b48dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 548
+        "currentTab": 558
       }
     ],
     "direction": "vertical"
@@ -6673,7 +6793,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007021.md",
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -6690,7 +6810,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007021.md",
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -6713,7 +6833,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007021.md"
+                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md"
               }
             }
           }
@@ -6734,34 +6854,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc1f5f684fecb33d",
+  "active": "cccf4065a3b48dfe",
   "lastOpenFiles": [
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007020.md",
+    "方剂/九痛丸.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009010.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009009.md",
+    "方剂/乌头赤石脂丸.md",
+    "方剂/桂枝生姜枳实汤.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009008.md",
+    "方剂/薏苡附子散.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009007.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009006.md",
+    "方剂/橘枳姜汤.md",
+    "方剂/茯苓杏仁甘草汤.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009005.md",
+    "方剂/人参汤.md",
+    "方剂/枳实薤白桂枝汤.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009004.md",
+    "方剂/栝楼薤白半夏汤.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009003.md",
+    "方剂/栝楼薤白白酒汤.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009002.md",
+    "条文/金匮要略/09 胸痹心痛短气/2009001.md",
     "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007021.md",
+    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007020.md",
     "方剂/苇茎汤.md",
     "方剂/桔梗白散.md",
     "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007019.md",
     "方剂/桂枝去芍药加皂荚汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007018.md",
-    "方剂/生姜甘草汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007017.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007016.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007015.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007014.md",
-    "方剂/小青龙加石膏汤.md",
-    "方剂/越婢加半夏汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007013.md",
-    "方剂/桔梗汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007012.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007011.md",
-    "方剂/葶苈大枣泻肺汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007010.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007009.md",
-    "方剂/泽漆汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007008.md",
-    "方剂/厚朴麻黄汤.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007007.md",
-    "方剂/皂荚丸.md",
     "条文/金匮要略/22 妇人杂病",
     "条文/金匮要略/21 妇人产后病",
     "条文/金匮要略/20 妇人妊娠病",
