@@ -5632,14 +5632,494 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "条文/金匮要略/01  脏腑经络先后病/2001017.md",
+                "file": "条文/金匮要略/02  痉湿暍/2002008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0cfccac2706cbe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/02  痉湿暍/2002020.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd08936119d9c733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/02  痉湿暍/2002021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20049a6ae104d8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/02  痉湿暍/2002022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "969731aaeddfa626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/02  痉湿暍/2002023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a7c5be553f29552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/02  痉湿暍/2002027.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecd309335d1b418b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003002.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5340ad6b5480891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003003.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5a76e7673d35d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003004.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "482d05052797269d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fce6cb7b9052d997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003006.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a06956582c075d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003007.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffa059dc4acb55fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a211fcf0d621b7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003011.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3d34e955fd2dfec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003012.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e989a5a25220b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003013.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c90170869d8b5a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003014.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1320efa21ebdbdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/03  百合狐惑阴阳毒/2003015.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e7e63066f96a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/08 奔豚气病/2008002.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a10d592d59cc092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/13 消渴小便不利淋病/2013003.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ca9235e62af5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/13 消渴小便不利淋病/2013010.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36755df97617ca6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/13 消渴小便不利淋病/2013011.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "327febe2a2e09a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/13 消渴小便不利淋病/2013011.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a10d5826d597af9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/13 消渴小便不利淋病/2013011.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a46e7515dd3ec64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005003.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f63d2957de8dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a25ee7319d2c8956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005005.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b44a74719924f156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005006.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9efd5747c407a52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005007.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c256911c48288a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005007.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54a51a43adcb1423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005012.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "684716494bcc266b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005014.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b44374e6ea7891b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005014.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be87ab8709ee0266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005015.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be114b40d7a87b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edae9844c97da8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb66d2e472a05ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d35cccd9142386f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005018.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8996b1c3ddbc11d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207e11ef88560efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005020.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "068d1838e3f3b53f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/05 中风历节/2005019.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 468
+        "currentTab": 508
       }
     ],
     "direction": "vertical"
@@ -5713,7 +6193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "条文/金匮要略/01  脏腑经络先后病/2001017.md",
+                "file": "条文/金匮要略/05 中风历节/2005019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -5730,7 +6210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "条文/金匮要略/01  脏腑经络先后病/2001017.md",
+                "file": "条文/金匮要略/05 中风历节/2005019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -5753,7 +6233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "条文/金匮要略/01  脏腑经络先后病/2001017.md"
+                "file": "条文/金匮要略/05 中风历节/2005019.md"
               }
             }
           }
@@ -5774,26 +6254,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d257608642100cc",
+  "active": "068d1838e3f3b53f",
   "lastOpenFiles": [
-    "条文/金匮要略/01  脏腑经络先后病/2001016.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001017.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001015.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001014.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001013.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001012.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001011.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001010.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001009.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001008.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001007.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001006.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001005.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001004.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001003.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001002.md",
-    "条文/金匮要略/01  脏腑经络先后病/2001001.md",
-    "条文/伤寒论/00 赵开美翻刻宋板《伤寒论》.md",
+    "条文/金匮要略/05 中风历节/2005020.md",
+    "条文/金匮要略/05 中风历节/2005016.md",
+    "条文/金匮要略/05 中风历节/2005017.md",
+    "条文/金匮要略/05 中风历节/2005019.md",
+    "方剂/越婢加术汤.md",
+    "方剂/八味丸.md",
+    "条文/金匮要略/05 中风历节/2005018.md",
+    "方剂/术附子汤.md",
+    "方剂/三黄汤.md",
+    "方剂/续命汤.md",
+    "条文/金匮要略/05 中风历节/2005015.md",
+    "方剂/矾石汤.md",
+    "条文/金匮要略/05 中风历节/2005014.md",
+    "方剂/乌头汤.md",
+    "条文/金匮要略/05 中风历节/2005013.md",
+    "条文/金匮要略/05 中风历节/2005012.md",
+    "方剂/桂枝芍药知母汤.md",
+    "条文/金匮要略/05 中风历节/2005011.md",
+    "条文/金匮要略/05 中风历节/2005010.md",
+    "条文/金匮要略/05 中风历节/2005009.md",
+    "条文/金匮要略/05 中风历节/2005008.md",
+    "条文/金匮要略/05 中风历节/2005007.md",
+    "方剂/头风摩散方.md",
+    "方剂/防己地黄汤.md",
+    "条文/金匮要略/05 中风历节/2005006.md",
+    "条文/金匮要略/05 中风历节/2005005.md",
     "条文/金匮要略/22 妇人杂病",
     "条文/金匮要略/21 妇人产后病",
     "条文/金匮要略/20 妇人妊娠病",
@@ -5804,14 +6292,6 @@
     "条文/金匮要略/15 黄疸",
     "条文/金匮要略/14 水气病",
     "条文/金匮要略/13 消渴小便不利淋病",
-    "条文/伤寒论/08 辨太阳病脉证并治（上）第五/12.md",
-    "条文/伤寒论/08 辨太阳病脉证并治（上）第五/11.md",
-    "方剂/桂枝汤/桂枝汤.md",
-    "方剂/小青龙汤.md",
-    "方剂/猪肤汤.md",
-    "条文/伤寒论/05 平脉法第二/1005045.md",
-    "条文/伤寒论/05 平脉法第二/1005044.md",
-    "条文/伤寒论/05 平脉法第二/1005043.md",
     "未命名.canvas"
   ]
 }
