@@ -6712,14 +6712,206 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
+                "file": "条文/金匮要略/11 五脏风寒积聚/2011007.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39e1fe584db6075f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/11 五脏风寒积聚/2011016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c49995c37728f25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/11 五脏风寒积聚/2011016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2909df31eeb52f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "185525043b53db1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010007.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e6f3cd5ee2329c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd4f02394b8e9bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010010.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd99ee9894e7125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010011.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da2469973b757118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010014.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cba5799df1bad02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010015.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d47e7d4284974f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba13e28f6a94a499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eed53cfc6e194ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010018.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68064bfe94531f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8ada36109100061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "条文/金匮要略/10 腹满寒疝宿食/2010023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdb4e1b2863496fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方剂/走马汤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9e584d8ca07372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方剂/走马汤.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 558
+        "currentTab": 574
       }
     ],
     "direction": "vertical"
@@ -6793,7 +6985,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
+                "file": "方剂/走马汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -6810,7 +7002,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md",
+                "file": "方剂/走马汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -6833,7 +7025,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "条文/金匮要略/09 胸痹心痛短气/2009010.md"
+                "file": "方剂/走马汤.md"
               }
             }
           }
@@ -6854,34 +7046,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cccf4065a3b48dfe",
+  "active": "b2382129710e2664",
   "lastOpenFiles": [
-    "方剂/九痛丸.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009010.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009009.md",
-    "方剂/乌头赤石脂丸.md",
-    "方剂/桂枝生姜枳实汤.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009008.md",
-    "方剂/薏苡附子散.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009007.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009006.md",
-    "方剂/橘枳姜汤.md",
-    "方剂/茯苓杏仁甘草汤.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009005.md",
-    "方剂/人参汤.md",
-    "方剂/枳实薤白桂枝汤.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009004.md",
-    "方剂/栝楼薤白半夏汤.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009003.md",
-    "方剂/栝楼薤白白酒汤.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009002.md",
-    "条文/金匮要略/09 胸痹心痛短气/2009001.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007021.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007020.md",
-    "方剂/苇茎汤.md",
-    "方剂/桔梗白散.md",
-    "条文/金匮要略/07 肺痿肺痈咳嗽上气/2007019.md",
-    "方剂/桂枝去芍药加皂荚汤.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010029.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010028.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010027.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010026.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010025.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010024.md",
+    "方剂/走马汤.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010023.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010022.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010021.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010020.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010019.md",
+    "方剂/乌头桂枝汤.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010018.md",
+    "方剂/当归生姜羊肉汤.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010017.md",
+    "方剂/大乌头煎.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010016.md",
+    "方剂/赤丸.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010015.md",
+    "方剂/大黄附子汤.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010014.md",
+    "方剂/大建中汤.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010013.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010012.md",
+    "条文/金匮要略/10 腹满寒疝宿食/2010011.md",
     "条文/金匮要略/22 妇人杂病",
     "条文/金匮要略/21 妇人产后病",
     "条文/金匮要略/20 妇人妊娠病",
